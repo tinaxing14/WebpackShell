@@ -4,7 +4,7 @@ const path = require('path');
 
 const app = express();
 
-const PORT = 3000;
+const PORT = 3414;
 
 app.listen(PORT, () => console.log(`\x1b[32m Server listening on PORT\x1b[36m ${PORT}`));
 
