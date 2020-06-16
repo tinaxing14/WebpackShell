@@ -12,5 +12,5 @@ $ npm run react-dev
 
 Start Server
 ```
-$ npm run react-dev
+$ npm run start
 ```
