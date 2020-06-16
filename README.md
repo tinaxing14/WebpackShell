@@ -1,3 +1,5 @@
+Easy start of a React project using webpack 4.
+
 Install Dependencies 
 
 ```
